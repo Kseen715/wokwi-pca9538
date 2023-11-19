@@ -6,7 +6,7 @@
 ## Description
 This is PCA9538 implimentation for [Wokwi simulator](https://wokwi.com/). Feel free to use it in your projects.
 ## Usage example 
-Put this JSON code in your `diagram.json`.
+Add `pca9538.chip.c` & `pca9538.chip.json` files into your project, then put this JSON code in your `diagram.json`.
 ```
 "parts": [
     { "type": "chip-pca9538", 
