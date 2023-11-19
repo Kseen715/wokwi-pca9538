@@ -9,7 +9,8 @@ This is PCA9538 implimentation for [Wokwi simulator](https://wokwi.com/). Feel f
 Add `pca9538.chip.c` & `pca9538.chip.json` files into your project, then put this JSON code in your `diagram.json`.
 ```
 "parts": [
-    { "type": "chip-pca9538", 
+    {
+      "type": "chip-pca9538", 
       "id": "pca9538_1", 
       "top": 0, 
       "left": 0, 
