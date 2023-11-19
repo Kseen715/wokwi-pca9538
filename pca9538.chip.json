@@ -1,0 +1,22 @@
+{
+  "name": "PCA9538",
+  "author": "Kseen715",
+  "pins": [
+    "A0",
+    "A1",
+    "RESET",
+    "P0",
+    "P1",
+    "P2",
+    "P3",
+    "GND",
+    "P4",
+    "P5",
+    "P6",
+    "P7",
+    "INT",
+    "SCL",
+    "SDA",
+    "VCC"
+  ]
+}
