@@ -17,4 +17,4 @@ Add `pca9538.chip.c` & `pca9538.chip.json` files into your project, then put thi
     }
 ]
 ```
-
+You can test it in my showcase project https://wokwi.com/projects/381564992805272577.
